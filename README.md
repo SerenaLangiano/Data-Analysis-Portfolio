@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Data analysis on Climate Change - Italy]()
+    - [Data analysis on Climate Change - Italy](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#Data-analysis-on-Climate-Change---Italy)
   - SQL
 - [Experience](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#experience)
 - [Education](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#education)  

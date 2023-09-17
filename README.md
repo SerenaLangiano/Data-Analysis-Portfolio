@@ -2,15 +2,15 @@
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## About
-Hi, I'm Serena! I have an analytical background in Electrical Engineer and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+Hi, I'm Serena! I have an academic background in Electrical Engineering and currently I am working as Data Analyst in the renewable energy field. In my four years of working experience I've developed a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of Data Analytics, where I can contribute to solving challenging problems and making data-driven decisions that have a tangible impact. 
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+Throughout my career, I honed my ability to work with complex datasets and developed strong visualization skills. I am proficient in Python, Excel and MySQL, whiche I've utilized to query large relational databases.
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 My CV in [pdf]().
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 
 ## Table of Contents
 - [About](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#about)

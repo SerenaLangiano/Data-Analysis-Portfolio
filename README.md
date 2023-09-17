@@ -16,10 +16,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie]()
+    - [Data analysis on Climate Change - Italy]()
   - SQL
-    - [Covid 19 Data Exploration]()
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
 - [Experience](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#experience)
 - [Education](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#certificates)
@@ -29,18 +27,18 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
+### Data analysis on Climate Change - Italy
 **Code:** [`name.ipynb`](link)
 
-**Goal:** .
+**Goal:** To analyse the evolution of the temperature in Italy from 1970 to 2022.
 
-**Description:** .
+**Description:** The project focused on analyzing a dataset of temperature measurements at 2 meters height in Italy. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the trend of the average temperature in Italy and estimate the annual variation.
 
-**Skills:** .
+**Skills:** data extraction, data cleaning, data analysis, data visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, Xarray, Geopandas, Shapely.
 
-**Results:** .
+**Results:** Using Python functions the analysis revealed a clear trend in the temperature, which is increasing throughout the years. The average increase stands at 0.04ºC for the whole country. Northern Italy is witnessing the highest increase (0.048ºC/year), followed by Central Italy (0.038ºC/year) and Southern Italy (0.035ºC).
 
 ## Experience
 Data Analyst - EDP

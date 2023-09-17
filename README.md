@@ -49,11 +49,11 @@ Data Analyst and Project Manager in EU funded projects.
 
 My achievements include:
 
-•Data Analytics to drive informed decisions in the planning and execution of Operation&Maintenance of PV and offshore wind parks. Key metrics derived from the analysis: energy production, plant availability, weather windows and fault occurrence.
-•Statistical analysis on faults in different components of a PV park to assess system health and performance.
-•Data cleaning (including the IQR method) to preprocess data and remove outliers.
-•Implementation of a GIS-based algorithm (Python) to compute the Levelized Cost of Energy for various renewable energy technologies.
-•Data visualisation (Python, Excel, PowerBI) to present data analysis findings to relevant stakeholders.
+- Data Analytics to drive informed decisions in the planning and execution of Operation&Maintenance of PV and offshore wind parks. Key metrics derived from the analysis: energy production, plant availability, weather windows and fault occurrence.
+- Statistical analysis on faults in different components of a PV park to assess system health and performance.
+- Data cleaning (including the IQR method) to preprocess data and remove outliers.
+- Implementation of a GIS-based algorithm (Python) to compute the Levelized Cost of Energy for various renewable energy technologies.
+- Data visualisation (Python, Excel, PowerBI) to present data analysis findings to relevant stakeholders.
 
 My current responsibilities also cover: Project Management, Budgeting, Writing and review of projects' Deliverables and Milestones.
 

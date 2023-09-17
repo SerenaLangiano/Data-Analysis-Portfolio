@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL
     - [Covid 19 Data Exploration]()
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-- [Experience] (https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#experience)
+- [Experience](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#experience)
 - [Education](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#contacts)

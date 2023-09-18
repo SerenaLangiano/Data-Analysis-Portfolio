@@ -42,13 +42,14 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Using Python functions the analysis revealed a clear trend in the temperature, which is increasing throughout the years. The average increase stands at 0.04ºC for the whole country. Northern Italy is witnessing the highest increase (0.048ºC/year), followed by Central Italy (0.038ºC/year) and Southern Italy (0.035ºC).
 
 ### Ecommerce Analysis with MySql
-**Code:** [`Ecommerce Analysis with MySql`](https://github.com/SerenaLangiano/Portfolio-Projects/tree/main/Ecommerce-Analysis)
+**Code:** [`Ecommerce-Analysis-with-MySql`]([https://github.com/SerenaLangiano/Portfolio-Projects/tree/main/Ecommerce-Analysis](https://github.com/SerenaLangiano/Portfolio-Projects/tree/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis))
 
 **Goal:** To analyse an eCommerce dataset to gain insights into the data.
 
 **Description:** The project focused on analyzing a dataset of an eCommerce to gain insights such as revenue analysis, customer behaviour, product analysis and more. The dataset is store in two different database:
+
 - "ecommerce" which contains two tables: Customer table and Product table;
-- "shipping" containing two tables: Orders_table and Order_items
+- "shipping" containing two tables: Orders_table and Order_items.
 
 
 **Skills:** database, MySql, queries.

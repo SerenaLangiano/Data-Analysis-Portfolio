@@ -41,22 +41,22 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Using Python functions the analysis revealed a clear trend in the temperature, which is increasing throughout the years. The average increase stands at 0.04ºC for the whole country. Northern Italy is witnessing the highest increase (0.048ºC/year), followed by Central Italy (0.038ºC/year) and Southern Italy (0.035ºC).
 
-### Ecommerce Analysis with MySql
+### Ecommerce Analysis with MySQL
 **Code:** [`Ecommerce-Analysis-with-MySql`](https://github.com/SerenaLangiano/Portfolio-Projects/tree/880d1399458666d2917dcc40d40da74edb37aba6/Ecommerce-Analysis)
 
-**Goal:** To analyse an eCommerce dataset to gain insights into the data.
+**Goal:** To analyse an eCommerce dataset to gain insights on the data.
 
-**Description:** The project focused on analyzing a dataset of an eCommerce to gain insights such as revenue analysis, customer behaviour, product analysis and more. The dataset is store in two different database:
+**Description:** The project focuses on the analysis of an eCommerce dataset to gain insights on revenues, customer behaviour, products and more. The data is stored in two different databases:
 
-- "ecommerce" which contains two tables: Customer table and Product table;
-- "shipping" containing two tables: Orders_table and Order_items.
+- "ecommerce" which contains two tables: customers and products;
+- "shipping" containing two tables: orders and oder_items.
 
 
-**Skills:** database, MySql, queries.
+**Skills:** database, MySQL, queries.
 
-**Technology:** MySql
+**Technology:** MySQL
 
-**Results:** Using MySql queries we want to answer the following questions:
+**Results:** Using MySQL queries we want to answer to the following questions:
 1.	What is the total revenue for each category?
 2.	Which customer has the most orders?
 3.	What is the average order value for each customer?	

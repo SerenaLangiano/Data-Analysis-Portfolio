@@ -18,6 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python
     - [Data analysis on Climate Change - Italy](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#Data-analysis-on-Climate-Change---Italy)
   - SQL
+    - [Ecommerce Analysis with MySql](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#Ecommerce-Analysis-with-MySql)
 - [Experience](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#experience)
 - [Education](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#certificates)
@@ -39,6 +40,32 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, Xarray, Geopandas, Shapely.
 
 **Results:** Using Python functions the analysis revealed a clear trend in the temperature, which is increasing throughout the years. The average increase stands at 0.04ºC for the whole country. Northern Italy is witnessing the highest increase (0.048ºC/year), followed by Central Italy (0.038ºC/year) and Southern Italy (0.035ºC).
+
+### Ecommerce Analysis with MySql
+**Code:** [`Ecommerce Analysis with MySql`]([link](https://github.com/SerenaLangiano/Portfolio-Projects/tree/main/Ecommerce-Analysis))
+
+**Goal:** To analyse an eCommerce dataset to gain insights into the data.
+
+**Description:** The project focused on analyzing a dataset of an eCommerce to gain insights such as revenue analysis, customer behaviour, product analysis and more. The dataset is store in two different database:
+-"ecommerce" which contains two tables: Customer table and Product table;
+-"shipping" containing two tables: Orders_table and Order_items
+
+
+**Skills:** database, MySql, queries.
+
+**Technology:** MySql
+
+**Results:** Using MySql queries we want to answer the following questions:
+1.	What is the total revenue for each category?
+2.	Which customer has the most orders?
+3.	What is the average order value for each customer?	
+4.	What is the total revenue for each month?
+5.	Which products have been ordered the most and how many times?
+6.	Which customers have ordered a particular product and how many times?
+7.	What is the average order value for each month? 
+8.	What is the average quantity ordered for each product?
+9.	Which category has the highest revenue per customer on average?
+10.	What is the total revenue for each status and month combination?
 
 ## Experience
 Data Analyst - EDP

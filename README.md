@@ -49,7 +49,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** The project focused on analyzing a dataset of an eCommerce to gain insights such as revenue analysis, customer behaviour, product analysis and more. The dataset is store in two different database:
 
 - "ecommerce" which contains two tables: Customer table and Product table;
-- "shipping" containing two tables: Orders_table and Order_items..
+- "shipping" containing two tables: Orders_table and Order_items.
 
 
 **Skills:** database, MySql, queries.

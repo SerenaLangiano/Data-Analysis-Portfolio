@@ -28,7 +28,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Data analysis on Climate Change - Italy
-**Code:** [`name.ipynb`](link)
+**Code:** [`Data-analysis-on-Climate-Change-Italy.ipynb`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/main/Data-analysis-on-Climate-Change-Italy/Data-analysis-on-Climate-Change-Italy.ipynb)
 
 **Goal:** To analyse the evolution of the temperature in Italy from 1970 to 2022.
 

@@ -42,7 +42,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Using Python functions the analysis revealed a clear trend in the temperature, which is increasing throughout the years. The average increase stands at 0.04ºC for the whole country. Northern Italy is witnessing the highest increase (0.048ºC/year), followed by Central Italy (0.038ºC/year) and Southern Italy (0.035ºC).
 
 ### Ecommerce Analysis with MySQL
-**Code:** [`Ecommerce-Analysis-with-MySql`](https://github.com/SerenaLangiano/Portfolio-Projects/tree/880d1399458666d2917dcc40d40da74edb37aba6/Ecommerce-Analysis)
+**Code:** [`Ecommerce-Analysis-with-MySql`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/d38e6faa28e558cc0d43426235560371dd34f2ac/Ecommerce-Analysis/Readme.md)
 
 **Goal:** To analyse an eCommerce dataset to gain insights on the data.
 

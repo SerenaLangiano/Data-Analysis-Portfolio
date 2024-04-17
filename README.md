@@ -8,7 +8,7 @@ Throughout my career, I honed my ability to work with complex datasets and devel
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [pdf](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/Serena%20Langiano%20CV.pdf).
+My CV in [pdf](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/Serena%20Langiano_CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 

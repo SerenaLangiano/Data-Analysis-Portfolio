@@ -17,6 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Data analysis on Climate Change - Italy](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#Data-analysis-on-Climate-Change---Italy)
+    - [Marketing campaigns Analysis - Computer software Company](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#Marketing-campaigns-Analysis---Computer-software-Company)
   - SQL
     - [Ecommerce Analysis with MySQL](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#Ecommerce-Analysis-with-MySql)
 - [Experience](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#experience)
@@ -40,6 +41,19 @@ In this section I will list Data Analytics projects briefly describing the techn
 **Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib, SciPy, Xarray, Geopandas, Shapely.
 
 **Results:** The analysis reveals a clear trend in the temperature, which increases throughout the years. The average increase stands at 0.04ºC for the whole country. Northern Italy witnesses the highest increase (0.048ºC/year), followed by Central Italy (0.038ºC/year) and Southern Italy (0.035ºC).
+
+### Marketing campaigns Analysis - Computer software company
+**Code:** [`Marketing-Campaigns-analysis.ipynb`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/main/Marketing%20campaign%20analysis/Marketing-Campaigns-analysis.ipynb)
+
+**Goal:** Analyzing the performance of four marketing campaigns.
+
+**Description:** The project focuses on analyzing a dataset containing metrics collected during four marketing campaigns. The project involves cleaning and preprocessing the data, implementing a machine learning classifier, analyzing the performance the marketing campaigns.
+
+**Skills:** data cleaning, feature engineering, machine learning, data analysis, data visualization.
+
+**Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib, Sci-kit learn.
+
+**Results:** The analysis provides clear and immediate insights on the campaigns, including leads breakdown, leads breakdown per source and per status, and which professional domains collected quality leads.
 
 ### Ecommerce Analysis with MySQL
 **Code:** [`Ecommerce-Analysis-with-MySql`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/d38e6faa28e558cc0d43426235560371dd34f2ac/Ecommerce-Analysis/Readme.md)

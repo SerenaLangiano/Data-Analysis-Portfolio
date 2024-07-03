@@ -20,6 +20,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Marketing campaigns Analysis - Computer software Company](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#Marketing-campaigns-Analysis---Computer-software-Company)
   - SQL
     - [Ecommerce Analysis with MySQL](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#Ecommerce-Analysis-with-MySql)
+  - Power BI
+    - [Executive summary](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#Ecommerce-Analysis-with-MySql)
 - [Experience](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#experience)
 - [Education](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#certificates)

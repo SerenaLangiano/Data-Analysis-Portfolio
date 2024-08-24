@@ -20,6 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Marketing campaigns Analysis - Computer software Company](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#Marketing-campaigns-Analysis---Computer-software-Company)
   - SQL
     - [Ecommerce Analysis with MySQL](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#Ecommerce-Analysis-with-MySql)
+    - [Healthcare Data Analysis](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#Healthcare-Data-Analysis)
   - Power BI
     - [Executive summary](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#Executive-Summary-Adventure-Works)
 - [Experience](https://github.com/SerenaLangiano/Data-Analysis-Portfolio/blob/main/README.md#experience)
@@ -83,6 +84,30 @@ In this section I will list Data Analytics projects briefly describing the techn
 8.	What is the average quantity ordered for each product?
 9.	Which category has the highest revenue per customer on average?
 10.	What is the total revenue for each status and month combination?
+
+### Healthcare Data Analysis
+**Code:** [`Healthcare Analysis_Part1.sql`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/d6ed786515722cadad445c326d694df540bfa3f0/Healthcare%20Data%20Analysis/Healthcare%20Analysis_Part1.sql), [`Healthcare Analysis_Part2.sql
+`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/d6ed786515722cadad445c326d694df540bfa3f0/Healthcare%20Data%20Analysis/Healthcare%20Analysis_Part2.sql)
+
+**Goal:** The goal of this project is to analyse patient demographics by postcode and gender to determine the distribution of patients across different areas. This analysis is aimed at identifying the most suitable areas with a balanced gender distribution for a research study. Additionally, for the top two postcode areas with the largest patient populations identified, patients are filtered based on specific clinical criteria (such as asthma diagnosis, medication history, smoking status, weight, COPD diagnosis, and opt-out preferences), allowing for generating a list of eligible patients for the study.
+
+**Description:** The data is stored in four .csv files: medication, observation, patient and clinical_codes.
+
+**Skills:** database, SQL, queries.
+
+**Technology:** SQL
+
+**Results:** The goal of the first part of the project is identifying the number of patients for each postcode, and their gender. LS99 9ZZ is the postcode with the highest number of patients. This is the starting point for the second part of the project.
+
+The goal of the second part of the project is identifying the most suitable patients for the research study within the top 2 postcodes. Patients shall meet the following criteria:
+
+1) belong to the most suitable postcode areas in terms of patient count;
+2) have asthma and are currently treating it;
+3) have been prescribed either Formoterol Fumarate, Salmeterol Xinafoate, Vilanterol, Indacaterol, Olodaterol (or meds containing these ingredients) in the past 30 years;
+4) are not currently smoking;
+5) weight more than 40kg;
+6) do not have a COPD diagnosis;
+7) have not opted out of taking part in research or sharing their medical record.
 
 ### Executive Summary Adventure Works
 **Code:** [`Executive summary`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/98cf9a25fff4c9263d23c7ef1c4ac6e18d304a67/Executive%20Summary/Adventure%20Works%20Executive%20Summary.pdf)

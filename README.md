@@ -86,8 +86,7 @@ In this section I will list Data Analytics projects briefly describing the techn
 10.	What is the total revenue for each status and month combination?
 
 ### Healthcare Data Analysis
-**Code:** [`Healthcare Analysis_Part1.sql`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/d6ed786515722cadad445c326d694df540bfa3f0/Healthcare%20Data%20Analysis/Healthcare%20Analysis_Part1.sql), [`Healthcare Analysis_Part2.sql
-`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/d6ed786515722cadad445c326d694df540bfa3f0/Healthcare%20Data%20Analysis/Healthcare%20Analysis_Part2.sql)
+**Code:** [`Healthcare Data Analysis with SQL`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/7979ae96478289526bc7625df83a7b4ccf8662da/Healthcare%20Data%20Analysis/readme.md)
 
 **Goal:** The goal of this project is to analyse patient demographics by postcode and gender to determine the distribution of patients across different areas. This analysis is aimed at identifying the most suitable areas with a balanced gender distribution for a research study. Additionally, for the top two postcode areas with the largest patient populations identified, patients are filtered based on specific clinical criteria (such as asthma diagnosis, medication history, smoking status, weight, COPD diagnosis, and opt-out preferences), allowing for generating a list of eligible patients for the study.
 

@@ -58,22 +58,21 @@ In this section I will list Data Analytics projects briefly describing the techn
 
 **Results:** The analysis provides clear and immediate insights on the campaigns, including leads breakdown, leads breakdown per source and per status, and which professional domains collected quality leads.
 
-### Ecommerce Analysis with MySQL
+### Ecommerce Analysis
 **Code:** [`Ecommerce-Analysis-with-MySql`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/d38e6faa28e558cc0d43426235560371dd34f2ac/Ecommerce-Analysis/Readme.md)
 
-**Goal:** Analyzing an eCommerce dataset to gain insights on the data.
+**Goal:** Analysing an eCommerce dataset to gain insights on the data.
 
 **Description:** The project focuses on the analysis of an eCommerce dataset to gain insights on revenues, customer behaviour, products and more. The data is stored in two different databases:
 
 - 'ecommerce' which contains two tables: customers and products;
 - 'shipping' containing two tables: orders and oder_items.
 
+**Skills:** database, SQL, queries.
 
-**Skills:** database, MySQL, queries.
+**Technology:** SQL
 
-**Technology:** MySQL
-
-**Results:** Using MySQL queries we want to answer to the following questions:
+**Results:** Using SQL queries we want to answer to the following questions:
 1.	What is the total revenue for each category?
 2.	Which customer has the most orders?
 3.	What is the average order value for each customer?	
@@ -145,6 +144,7 @@ Bachelor's degree, Industrial Engineering,
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/verify/KASUZADXLYUNutm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) (May 2024) (Microsoft)
 - [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-gb/users/serenalangiano-9408/credentials/19061c06d53518be) (Aug 2023) (Microsoft)
 - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/B3SJUWY47QR9) (Aug 2022) (Coursera - DeepLearning.AI, Stanford Online)
 - [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/UCSRF6P7DT4D) (Jul 2022) (Coursera - DeepLearning.AI, Stanford Online)

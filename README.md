@@ -4,7 +4,7 @@ This is a repository that I have created to showcase skills, share projects and 
 ## About
 Hi, I'm Serena! I have an academic background in Electrical Engineering and currently I am working as Data Analyst in the renewable energy field. In my 4+ years of working experience I've developed a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of Data Analytics, where I can contribute to solving challenging problems and making data-driven decisions that have a tangible impact. 
 
-Throughout my career, I honed my ability to work with complex datasets and developed strong visualization skills. I am proficient in Python, Excel and MySQL, whiche I've utilized to query large relational databases.
+Throughout my career, I honed my ability to work with complex datasets and developed strong visualization skills. I am proficient in Python, Excel and SQL, whiche I've utilized to query large relational databases.
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
